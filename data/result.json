@@ -1,0 +1,3514 @@
+{
+    "name": "Python 2022A : CHAT",
+    "type": "private_supergroup",
+    "id": 1640165484,
+    "messages": [
+    {
+      "id": -999814828,
+      "type": "service",
+      "date": "2021-12-08T16:46:28",
+      "actor": "Jalilov",
+      "actor_id": "user1046157991",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814828,
+      "type": "service",
+      "date": "2021-12-08T16:46:28",
+      "actor": "Jalilov",
+      "actor_id": "user1046157991",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814822,
+      "type": "service",
+      "date": "2021-12-08T16:49:56",
+      "actor": "Oybek",
+      "actor_id": "user369574984",
+      "action": "join_group_by_link",
+      "inviter": "Group",
+      "text": ""
+     },
+     {
+      "id": -999814818,
+      "type": "service",
+      "date": "2021-12-08T16:50:59",
+      "actor": "Jalilov",
+      "actor_id": "user1046157991",
+      "action": "remove_members",
+      "members": [
+       "Oybek"
+      ],
+      "text": ""
+     },
+     {
+      "id": -999814810,
+      "type": "service",
+      "date": "2021-12-08T16:53:49",
+      "actor": "Oybek",
+      "actor_id": "user369574984",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814592,
+      "type": "service",
+      "date": "2021-12-08T20:53:09",
+      "actor": "K Sharof",
+      "actor_id": "user981854705",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814591,
+      "type": "service",
+      "date": "2021-12-08T20:55:32",
+      "actor": "Murodjon TATU",
+      "actor_id": "user1903753536",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814553,
+      "type": "service",
+      "date": "2021-12-08T20:58:28",
+      "actor": "Рахимов Мухаммад Бобур",
+      "actor_id": "user1190418313",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814552,
+      "type": "service",
+      "date": "2021-12-08T20:58:30",
+      "actor": "K Diyor",
+      "actor_id": "user1258594598",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814544,
+      "type": "service",
+      "date": "2021-12-08T21:01:03",
+      "actor": "Hamid aka",
+      "actor_id": "user268270012",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814541,
+      "type": "service",
+      "date": "2021-12-08T21:13:29",
+      "actor": "Codeschooluz",
+      "actor_id": "user1411214137",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814540,
+      "type": "service",
+      "date": "2021-12-08T21:17:18",
+      "actor": "(; Sulaymon ;)",
+      "actor_id": "user1315489790",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814530,
+      "type": "service",
+      "date": "2021-12-08T21:35:49",
+      "actor": "Odilxon",
+      "actor_id": "user271092040",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814528,
+      "type": "service",
+      "date": "2021-12-08T21:43:57",
+      "actor": "✪ Black Coder ✪",
+      "actor_id": "user1259994940",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814527,
+      "type": "service",
+      "date": "2021-12-08T21:44:38",
+      "actor": "Rasulov Diyorbek",
+      "actor_id": "user1962761113",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814526,
+      "type": "service",
+      "date": "2021-12-08T21:46:38",
+      "actor": "Shohjahon Berdimurotov",
+      "actor_id": "user1333107837",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814489,
+      "type": "service",
+      "date": "2021-12-08T21:48:05",
+      "actor": "Malik Domla",
+      "actor_id": "user109599090",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814488,
+      "type": "service",
+      "date": "2021-12-08T21:48:29",
+      "actor": "Shahzod",
+      "actor_id": "user1118355932",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814487,
+      "type": "service",
+      "date": "2021-12-08T21:49:55",
+      "actor": "Ochilov Elbek",
+      "actor_id": "user1725019371",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814486,
+      "type": "service",
+      "date": "2021-12-08T21:51:12",
+      "actor": "ᴏᴛᴀʏᴏʀ ʏᴜsᴜᴘᴏᴠ",
+      "actor_id": "user227588239",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814485,
+      "type": "service",
+      "date": "2021-12-08T21:51:42",
+      "actor": "Jamshid",
+      "actor_id": "user499804805",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814484,
+      "type": "service",
+      "date": "2021-12-08T21:52:12",
+      "actor": "O`razg`ali",
+      "actor_id": "user1916958006",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814447,
+      "type": "service",
+      "date": "2021-12-08T21:53:30",
+      "actor": "K Ikrom",
+      "actor_id": "user715393503",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814446,
+      "type": "service",
+      "date": "2021-12-08T21:58:03",
+      "actor": "Feruz Bekkiyev",
+      "actor_id": "user1320715317",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814437,
+      "type": "service",
+      "date": "2021-12-08T22:27:15",
+      "actor": "👨‍🎓 Ｓ@რץβογ 👨‍💻",
+      "actor_id": "user473512979",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814413,
+      "type": "service",
+      "date": "2021-12-08T22:44:31",
+      "actor": "ابراهيم",
+      "actor_id": "user1162958042",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814408,
+      "type": "service",
+      "date": "2021-12-08T23:15:28",
+      "actor": "Muhammad Ali 🇺🇿",
+      "actor_id": "user1669196854",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814407,
+      "type": "service",
+      "date": "2021-12-08T23:15:30",
+      "actor": "Mukhriddin",
+      "actor_id": "user999227188",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814377,
+      "type": "message",
+      "date": "2021-12-09T00:03:19",
+      "from": "Mukhriddin",
+      "from_id": "user999227188",
+      "text": "Assalomu aleykum barchaga."
+     },
+     {
+      "id": -999814372,
+      "type": "message",
+      "date": "2021-12-09T00:11:42",
+      "from": "K Diyor",
+      "from_id": "user1258594598",
+      "reply_to_message_id": -999814377,
+      "text": "Assalomu alaykum"
+     },
+     {
+      "id": -999814362,
+      "type": "service",
+      "date": "2021-12-09T00:25:13",
+      "actor": "Husan",
+      "actor_id": "user985722002",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814361,
+      "type": "service",
+      "date": "2021-12-09T00:26:15",
+      "actor": "SARVARBEK JAKBAROV DI-11-21",
+      "actor_id": "user1432326827",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": -999814357,
+      "type": "service",
+      "date": "2021-12-09T06:41:40",
+      "actor": "Olimoff",
+      "actor_id": "user456920640",
+      "action": "migrate_to_supergroup",
+      "text": ""
+     },
+     {
+      "id": 1,
+      "type": "service",
+      "date": "2021-12-09T06:41:40",
+      "actor": "Python 2022A : CHAT",
+      "actor_id": "channel1640165484",
+      "action": "migrate_from_group",
+      "title": "Python 2022A",
+      "text": ""
+     },
+     {
+      "id": 2,
+      "type": "service",
+      "date": "2021-12-09T06:42:52",
+      "actor": "Codeschooluz",
+      "actor_id": "user1411214137",
+      "action": "edit_group_title",
+      "title": "Python 2022A : CHAT",
+      "text": ""
+     },
+     {
+      "id": 3,
+      "type": "message",
+      "date": "2021-12-09T06:59:10",
+      "from": "Feruz Bekkiyev",
+      "from_id": "user1320715317",
+      "text": "Hammaga xayrli tong!!!"
+     },
+     {
+      "id": 4,
+      "type": "message",
+      "date": "2021-12-09T07:35:58",
+      "from": "Husan",
+      "from_id": "user985722002",
+      "reply_to_message_id": 3,
+      "text": "Hayirli bòlsin"
+     },
+     {
+      "id": 5,
+      "type": "message",
+      "date": "2021-12-09T08:14:29",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "text": "Valaykum Salom hammaga kimda qanday savolar bo'lsa beringizlar"
+     },
+     {
+      "id": 6,
+      "type": "message",
+      "date": "2021-12-09T08:15:05",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "text": "kim uyga vazifani bajarganlar ham yo'nalish bersa bo'ladi"
+     },
+     {
+      "id": 7,
+      "type": "message",
+      "date": "2021-12-09T08:36:34",
+      "from": "Husan",
+      "from_id": "user985722002",
+      "reply_to_message_id": 6,
+      "text": "uyga vazifalarni qayerga joylaymiz"
+     },
+     {
+      "id": 8,
+      "type": "message",
+      "date": "2021-12-09T08:37:00",
+      "from": "Husan",
+      "from_id": "user985722002",
+      "text": [
+       {
+        "type": "link",
+        "text": "https://github.com/HusanJalilov/Print_homework"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "type": "message",
+      "date": "2021-12-09T09:04:50",
+      "from": "Codeschooluz",
+      "from_id": "user1411214137",
+      "reply_to_message_id": 7,
+      "text": "???"
+     },
+     {
+      "id": 10,
+      "type": "message",
+      "date": "2021-12-09T09:04:55",
+      "from": "Codeschooluz",
+      "from_id": "user1411214137",
+      "reply_to_message_id": 8,
+      "text": "???"
+     },
+     {
+      "id": 11,
+      "type": "message",
+      "date": "2021-12-09T09:57:14",
+      "from": "Husan",
+      "from_id": "user985722002",
+      "text": "vazifalarni uzimiz uchun qilamizmi"
+     },
+     {
+      "id": 12,
+      "type": "message",
+      "date": "2021-12-09T09:57:27",
+      "from": "Husan",
+      "from_id": "user985722002",
+      "text": "yoki tekshirasizlarmi demoqchiman"
+     },
+     {
+      "id": 13,
+      "type": "message",
+      "date": "2021-12-09T10:05:20",
+      "edited": "2021-12-09T10:05:56",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "text": "hamma uyga vazifalar tekshiriladi va baxolanadi"
+     },
+     {
+      "id": 14,
+      "type": "service",
+      "date": "2021-12-09T10:12:07",
+      "actor": "Diyorbek",
+      "actor_id": "user981521454",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": 15,
+      "type": "service",
+      "date": "2021-12-09T10:12:10",
+      "actor": "K Otabek",
+      "actor_id": "user646113348",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": 16,
+      "type": "service",
+      "date": "2021-12-09T10:12:47",
+      "actor": "رَوْشاَن",
+      "actor_id": "user527334899",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": 17,
+      "type": "message",
+      "date": "2021-12-09T10:13:48",
+      "from": "K Diyor",
+      "from_id": "user1258594598",
+      "reply_to_message_id": 8,
+      "text": "tayyor javob uchun rahmat😁👍"
+     },
+     {
+      "id": 18,
+      "type": "message",
+      "date": "2021-12-09T10:15:22",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "text": "o'zi aslida yechimni tashlagan ham ko'chirgan ham grupadan chetlashtiriladi qoydalarni unchalik bilmagan unchun qoldiramiz"
+     },
+     {
+      "id": 19,
+      "type": "service",
+      "date": "2021-12-09T10:16:18",
+      "actor": "꧁❀ιѕяσιℓ❀꧂",
+      "actor_id": "user700529408",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": 20,
+      "type": "message",
+      "date": "2021-12-09T10:16:23",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "text": "ko'chirish avtomatik tekshiriladi aniqlash qiyin emas live darsimizda yana bir bor eslatib o'taman"
+     },
+     {
+      "id": 21,
+      "type": "message",
+      "date": "2021-12-09T10:16:53",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "text": "✅ Be nice, respectful to others.\n✅ Do not advertise or promote anything.\n✅ Do not spam.\n✅ Don't send the solution to the group.\n✅ If who deleted their message from the admin\n\nif you violate the rule, you will be banned."
+     },
+     {
+      "id": 22,
+      "type": "service",
+      "date": "2021-12-09T10:19:47",
+      "actor": "Bilol",
+      "actor_id": "user822436598",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": 24,
+      "type": "message",
+      "date": "2021-12-09T10:22:07",
+      "from": "Murodjon TATU",
+      "from_id": "user1903753536",
+      "reply_to_message_id": 8,
+      "text": "keyin buni kuchirmanglar xato ishlangan"
+     },
+     {
+      "id": 25,
+      "type": "message",
+      "date": "2021-12-09T10:23:46",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 24,
+      "text": "aniqroq xatosini yozavering"
+     },
+     {
+      "id": 26,
+      "type": "message",
+      "date": "2021-12-09T10:24:33",
+      "from": "Ochilov Elbek",
+      "from_id": "user1725019371",
+      "text": [
+       {
+        "type": "link",
+        "text": "https://github.com/ochilovelbek/print_homework"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "type": "message",
+      "date": "2021-12-09T10:25:10",
+      "from": "Murodjon TATU",
+      "from_id": "user1903753536",
+      "reply_to_message_id": 8,
+      "text": "Birinchi misolda xato bor"
+     },
+     {
+      "id": 28,
+      "type": "message",
+      "date": "2021-12-09T10:25:12",
+      "from": "Ochilov Elbek",
+      "from_id": "user1725019371",
+      "reply_to_message_id": 24,
+      "text": "Nmasi xato"
+     },
+     {
+      "id": 29,
+      "type": "message",
+      "date": "2021-12-09T10:25:30",
+      "from": "Ochilov Elbek",
+      "from_id": "user1725019371",
+      "reply_to_message_id": 26,
+      "text": "Buni tekshiringchi"
+     },
+     {
+      "id": 30,
+      "type": "message",
+      "date": "2021-12-09T10:25:50",
+      "from": "Olimoff",
+      "from_id": "user456920640",
+      "reply_to_message_id": 27,
+      "text": "qayerda xato qilganini aytavering"
+     },
+     {
+      "id": 31,
+      "type": "message",
+      "date": "2021-12-09T10:26:33",
+      "from": "Murodjon TATU",
+      "from_id": "user1903753536",
+      "reply_to_message_id": 30,
+      "text": "Aynan aytilganidek  chiqmagan"
+     },
+     {
+      "id": 32,
+      "type": "message",
+      "date": "2021-12-09T10:26:43",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "text": "probellar soni"
+     },
+     {
+      "id": 33,
+      "type": "message",
+      "date": "2021-12-09T10:37:32",
+      "from": "꧁❀ιѕяσιℓ❀꧂",
+      "from_id": "user700529408",
+      "forwarded_from": "꧁❀ιѕяσιℓ❀꧂",
+      "text": [
+       {
+        "type": "link",
+        "text": "https://github.com/Isroil04/python_01/tree/main"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "type": "message",
+      "date": "2021-12-09T10:53:39",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1024,
+      "height": 1280,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#print"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "type": "message",
+      "date": "2021-12-09T10:53:39",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu code bajarganda natija nima chiqaradi?",
+       "closed": false,
+       "total_voters": 37,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "B",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "C",
+         "voters": 0,
+         "chosen": false
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 36,
+      "type": "message",
+      "date": "2021-12-09T10:53:39",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1024,
+      "height": 1280,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#print"
+       }
+      ]
+     },
+     {
+      "id": 37,
+      "type": "message",
+      "date": "2021-12-09T10:53:39",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu code bajarganda natija nima chiqaradi?",
+       "closed": false,
+       "total_voters": 38,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "B",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "C",
+         "voters": 0,
+         "chosen": false
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 38,
+      "type": "message",
+      "date": "2021-12-09T10:53:39",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1024,
+      "height": 1280,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#print"
+       }
+      ]
+     },
+     {
+      "id": 39,
+      "type": "message",
+      "date": "2021-12-09T10:53:47",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu code bajarganda natija nima chiqaradi?",
+       "closed": false,
+       "total_voters": 38,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "B",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "C",
+         "voters": 0,
+         "chosen": false
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 40,
+      "type": "message",
+      "date": "2021-12-09T10:55:12",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "text": "Ushbu QUIZ larni python ishlatmasdan bajarib ko'ring. Bular baholanmaydi o'zingizni sinab ko'rish maqsadida."
+     },
+     {
+      "id": 41,
+      "type": "message",
+      "date": "2021-12-09T10:59:38",
+      "from": "👨‍🎓 Ｓ@რץβογ 👨‍💻",
+      "from_id": "user473512979",
+      "reply_to_message_id": 39,
+      "text": "Javoblani yozuv rangini uzgartirish kere ekan"
+     },
+     {
+      "id": 42,
+      "type": "message",
+      "date": "2021-12-09T11:06:46",
+      "from": "K Otabek",
+      "from_id": "user646113348",
+      "reply_to_message_id": 41,
+      "text": "+"
+     },
+     {
+      "id": 43,
+      "type": "message",
+      "date": "2021-12-09T11:10:01",
+      "from": "Jalilov",
+      "from_id": "user1046157991",
+      "reply_to_message_id": 41,
+      "text": "Koʻrinmayaptimi"
+     },
+     {
+      "id": 44,
+      "type": "message",
+      "date": "2021-12-09T11:13:46",
+      "from": "K Otabek",
+      "from_id": "user646113348",
+      "reply_to_message_id": 43,
+      "text": "yorqinroq rangdan foydalansa yaxshiroq bo'lardi iloji bo'lsa albatta"
+     },
+     {
+      "id": 45,
+      "type": "message",
+      "date": "2021-12-09T11:16:08",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "text": "bu ko'rinishi shart emas sababi siz javobni o'qishingiz kerak emas uni ishlab chiqiqishingiz kerak!!!"
+     },
+     {
+      "id": 46,
+      "type": "message",
+      "date": "2021-12-09T11:17:50",
+      "edited": "2021-12-09T11:18:32",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 39,
+      "text": "bu ko'rinishi shart emas sababi siz javobni o'qishingiz kerak emas uni ishlab chiqiqishingiz kerak!!!\numuman olganda ranga keladigan bo‘lsak kattalashtirib ochganda yaxshi ko‘rinadi uzoqda albatda muammo"
+     },
+     {
+      "id": 47,
+      "type": "message",
+      "date": "2021-12-09T11:18:25",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 39,
+      "text": "quiz qilsangiz bo'larkan, poll da javobni qaytarib olish mumkin"
+     },
+     {
+      "id": 48,
+      "type": "message",
+      "date": "2021-12-09T11:18:58",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 47,
+      "text": "Raxmat"
+     },
+     {
+      "id": 49,
+      "type": "message",
+      "date": "2021-12-09T11:52:29",
+      "from": "Rasulov Diyorbek",
+      "from_id": "user1962761113",
+      "reply_to_message_id": 47,
+      "text": "+"
+     },
+     {
+      "id": 50,
+      "type": "message",
+      "date": "2021-12-09T12:07:49",
+      "from": "SARVARBEK JAKBAROV DI-11-21",
+      "from_id": "user1432326827",
+      "reply_to_message_id": 47,
+      "text": "+++++"
+     },
+     {
+      "id": 51,
+      "type": "message",
+      "date": "2021-12-09T18:08:24",
+      "from": "Rasulov Diyorbek",
+      "from_id": "user1962761113",
+      "text": "Bugunga ham vazifa beriladimi?"
+     },
+     {
+      "id": 52,
+      "type": "service",
+      "date": "2021-12-09T18:53:11",
+      "actor": "Doniyor Baltashov",
+      "actor_id": "user803818611",
+      "action": "invite_members",
+      "members": [
+       "Doniyor Baltashov"
+      ],
+      "text": ""
+     },
+     {
+      "id": 53,
+      "type": "service",
+      "date": "2021-12-09T19:45:22",
+      "actor": "Jasurbek K Husan",
+      "actor_id": "user1612092760",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": 54,
+      "type": "message",
+      "date": "2021-12-09T19:56:28",
+      "from": "Jasurbek K Husan",
+      "from_id": "user1612092760",
+      "text": "bugun dars berildimi"
+     },
+     {
+      "id": 55,
+      "type": "message",
+      "date": "2021-12-09T21:12:35",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 960,
+      "height": 540,
+      "text": [
+       "Pythonda kodlarni o'qishni osonlashtirish uchun izohlar yozishimiz mumkin. Bugun darsimizda shuni o'rganamiz.\n\n 🔴 Youtube: ",
+       {
+        "type": "link",
+        "text": "https://youtu.be/BGMv4emo1Vk"
+       },
+       ""
+      ]
+     },
+     {
+      "id": 56,
+      "type": "message",
+      "date": "2021-12-09T21:46:03",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1024,
+      "height": 1280,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       }
+      ]
+     },
+     {
+      "id": 57,
+      "type": "message",
+      "date": "2021-12-09T21:46:03",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu code bajarganda natija nima chiqaradi?",
+       "closed": false,
+       "total_voters": 30,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 2,
+         "chosen": true
+        },
+        {
+         "text": "B",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "C",
+         "voters": 28,
+         "chosen": false
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 58,
+      "type": "message",
+      "date": "2021-12-09T21:46:03",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1024,
+      "height": 1280,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       }
+      ]
+     },
+     {
+      "id": 59,
+      "type": "message",
+      "date": "2021-12-09T21:46:03",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu code bajarganda natija nima chiqaradi?",
+       "closed": false,
+       "total_voters": 29,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 27,
+         "chosen": false
+        },
+        {
+         "text": "B",
+         "voters": 2,
+         "chosen": true
+        },
+        {
+         "text": "C",
+         "voters": 0,
+         "chosen": false
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 60,
+      "type": "message",
+      "date": "2021-12-09T21:46:03",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1024,
+      "height": 1280,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       }
+      ]
+     },
+     {
+      "id": 61,
+      "type": "message",
+      "date": "2021-12-09T21:46:09",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu code bajarganda natija nima chiqaradi?",
+       "closed": false,
+       "total_voters": 30,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 2,
+         "chosen": false
+        },
+        {
+         "text": "B",
+         "voters": 24,
+         "chosen": true
+        },
+        {
+         "text": "C",
+         "voters": 4,
+         "chosen": false
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 62,
+      "type": "message",
+      "date": "2021-12-09T21:47:47",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 960,
+      "height": 540,
+      "text": [
+       "📖 Mavzu: Bugun sizlar bilan o’zgaruvchilar va ularning turlari haqida qisqacha to’xtalib o’tamiz.\nO’zgaruvchi bu - qiymat uchun konteyner hisoblanadi, siz o’zgaruvchi e’lon qilganingizda xotiradan bir oz joy ajratiladi. Keyin o’zgaruvchini dasturda murojat qilib foydalanishimiz mumkin.\n\n🔴 Youtube: ",
+       {
+        "type": "link",
+        "text": "https://youtu.be/FNnEncpblmg"
+       },
+       ""
+      ]
+     },
+     {
+      "id": 63,
+      "type": "message",
+      "date": "2021-12-09T22:38:51",
+      "from": "Feruz Bekkiyev",
+      "from_id": "user1320715317",
+      "reply_to_message_id": 39,
+      "text": "Man hammasini to'g'ri topdim"
+     },
+     {
+      "id": 64,
+      "type": "message",
+      "date": "2021-12-09T23:37:35",
+      "from": "O`razg`ali",
+      "from_id": "user1916958006",
+      "text": "homework yoqmi bugunga?"
+     },
+     {
+      "id": 67,
+      "type": "message",
+      "date": "2021-12-10T06:46:21",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "text": "✅ Be nice, respectful to others.\n✅ Do not advertise or promote anything.\n✅ Do not spam.\n✅ Don't send the solution to the group.\n✅ If who deleted their message from the admin\n\nif you violate the rule, you will be banned."
+     },
+     {
+      "id": 68,
+      "type": "message",
+      "date": "2021-12-10T17:10:37",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+      "text": [
+       "Assalomu alaykum, Keyingi darsimiz ertaga ",
+       {
+        "type": "bold",
+        "text": "shanba"
+       },
+       " kuni soat ",
+       {
+        "type": "bold",
+        "text": "🕗19:00"
+       },
+       " da bo'ladi. \n\nDarsgacha hammaning kompyuteriga ",
+       {
+        "type": "bold",
+        "text": "Git"
+       },
+       " o'rnatilgan bo'lishi kerak, Windows OS ishlatadiganlar ushubu qo'llanma orqali o'rnatishingiz mumkin."
+      ]
+     },
+     {
+      "id": 69,
+      "type": "message",
+      "date": "2021-12-10T18:51:53",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 68,
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "application/pdf",
+      "text": ""
+     },
+     {
+      "id": 70,
+      "type": "message",
+      "date": "2021-12-11T12:13:59",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 68,
+      "text": "Git o’rnatganlar screenshot yuborsin shuyerga"
+     },
+     {
+      "id": 71,
+      "type": "message",
+      "date": "2021-12-11T12:27:11",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 70,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 72,
+      "type": "message",
+      "date": "2021-12-11T12:27:22",
+      "from": "✪ Black Coder ✪",
+      "from_id": "user1259994940",
+      "reply_to_message_id": 70,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 513,
+      "text": ""
+     },
+     {
+      "id": 73,
+      "type": "message",
+      "date": "2021-12-11T12:32:01",
+      "from": "Mukhriddin",
+      "from_id": "user999227188",
+      "reply_to_message_id": 70,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": "Assalomu aleykum."
+     },
+     {
+      "id": 74,
+      "type": "message",
+      "date": "2021-12-11T12:39:05",
+      "from": "꧁❀ιѕяσιℓ❀꧂",
+      "from_id": "user700529408",
+      "reply_to_message_id": 70,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": "Assalomu alaykum"
+     },
+     {
+      "id": 75,
+      "type": "service",
+      "date": "2021-12-11T12:49:00",
+      "actor": "꧁❀ιѕяσιℓ❀꧂",
+      "actor_id": "user700529408",
+      "action": "remove_members",
+      "members": [
+       "꧁❀ιѕяσιℓ❀꧂"
+      ],
+      "text": ""
+     },
+     {
+      "id": 76,
+      "type": "message",
+      "date": "2021-12-11T12:50:09",
+      "from": "ᴏᴛᴀʏᴏʀ ʏᴜsᴜᴘᴏᴠ",
+      "from_id": "user227588239",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 790,
+      "height": 646,
+      "text": ""
+     },
+     {
+      "id": 77,
+      "type": "service",
+      "date": "2021-12-11T12:52:26",
+      "actor": "Elmurod Shoyimov",
+      "actor_id": "user1953599777",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": 78,
+      "type": "message",
+      "date": "2021-12-11T12:55:53",
+      "from": "K Sharof",
+      "from_id": "user981854705",
+      "reply_to_message_id": 68,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 677,
+      "text": ""
+     },
+     {
+      "id": 79,
+      "type": "message",
+      "date": "2021-12-11T13:16:31",
+      "from": "O`razg`ali",
+      "from_id": "user1916958006",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 655,
+      "height": 424,
+      "text": ""
+     },
+     {
+      "id": 80,
+      "type": "message",
+      "date": "2021-12-11T13:16:33",
+      "from": "Doniyor Baltashov",
+      "from_id": "user803818611",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 81,
+      "type": "message",
+      "date": "2021-12-11T13:39:01",
+      "from": "👨‍🎓 Ｓ@რץβογ 👨‍💻",
+      "from_id": "user473512979",
+      "reply_to_message_id": 70,
+      "text": "Telefondegilar shartmasmi"
+     },
+     {
+      "id": 82,
+      "type": "message",
+      "date": "2021-12-11T13:55:53",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1080,
+      "height": 1350,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       }
+      ]
+     },
+     {
+      "id": 83,
+      "type": "message",
+      "date": "2021-12-11T13:55:53",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu code bajarganda natija nima chiqaradi?",
+       "closed": false,
+       "total_voters": 29,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "B",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "C",
+         "voters": 0,
+         "chosen": false
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 84,
+      "type": "message",
+      "date": "2021-12-11T13:55:53",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1080,
+      "height": 1350,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       }
+      ]
+     },
+     {
+      "id": 85,
+      "type": "message",
+      "date": "2021-12-11T13:55:53",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu code bajarganda natija nima chiqaradi?",
+       "closed": false,
+       "total_voters": 28,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "B",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "C",
+         "voters": 0,
+         "chosen": false
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 86,
+      "type": "message",
+      "date": "2021-12-11T13:55:53",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1080,
+      "height": 1350,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       }
+      ]
+     },
+     {
+      "id": 87,
+      "type": "message",
+      "date": "2021-12-11T13:56:01",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu code bajarganda natija nima chiqaradi?",
+       "closed": false,
+       "total_voters": 28,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "B",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "C",
+         "voters": 0,
+         "chosen": false
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 88,
+      "type": "message",
+      "date": "2021-12-11T13:57:18",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1024,
+      "height": 1280,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       }
+      ]
+     },
+     {
+      "id": 89,
+      "type": "message",
+      "date": "2021-12-11T13:58:04",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu code bajarganda natija nima chiqaradi?",
+       "closed": false,
+       "total_voters": 28,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 17,
+         "chosen": false
+        },
+        {
+         "text": "B",
+         "voters": 8,
+         "chosen": false
+        },
+        {
+         "text": "C",
+         "voters": 3,
+         "chosen": true
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 90,
+      "type": "message",
+      "date": "2021-12-11T13:58:29",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1024,
+      "height": 1280,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#python"
+       },
+       " ",
+       {
+        "type": "hashtag",
+        "text": "#test"
+       }
+      ]
+     },
+     {
+      "id": 91,
+      "type": "message",
+      "date": "2021-12-11T13:59:12",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "poll": {
+       "question": "Ushbu keltirilgan dasturlardan qaysi birida xatolik bor?",
+       "closed": false,
+       "total_voters": 28,
+       "answers": [
+        {
+         "text": "A",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "B",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "C",
+         "voters": 0,
+         "chosen": false
+        },
+        {
+         "text": "D",
+         "voters": 0,
+         "chosen": false
+        }
+       ]
+      },
+      "text": ""
+     },
+     {
+      "id": 92,
+      "type": "message",
+      "date": "2021-12-11T14:43:23",
+      "from": "Рахимов Мухаммад Бобур",
+      "from_id": "user1190418313",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 93,
+      "type": "message",
+      "date": "2021-12-11T14:52:09",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 92,
+      "text": "shartni to'g'ri bajaring!!!"
+     },
+     {
+      "id": 94,
+      "type": "message",
+      "date": "2021-12-11T14:53:04",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 81,
+      "text": "unday bo'lsa grupadan chiqaramiz!!!"
+     },
+     {
+      "id": 95,
+      "type": "message",
+      "date": "2021-12-11T14:54:10",
+      "from": "Рахимов Мухаммад Бобур",
+      "from_id": "user1190418313",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 96,
+      "type": "message",
+      "date": "2021-12-11T14:54:38",
+      "edited": "2021-12-11T19:04:30",
+      "from": "👨‍🎓 Ｓ@რץβογ 👨‍💻",
+      "from_id": "user473512979",
+      "reply_to_message_id": 94,
+      "text": "Keyingi hafta olaman. Ungacha amallab turay"
+     },
+     {
+      "id": 97,
+      "type": "message",
+      "date": "2021-12-11T14:55:29",
+      "from": "Рахимов Мухаммад Бобур",
+      "from_id": "user1190418313",
+      "reply_to_message_id": 93,
+      "text": "Шундайми устоз"
+     },
+     {
+      "id": 98,
+      "type": "message",
+      "date": "2021-12-11T14:55:38",
+      "from": "(; Sulaymon ;)",
+      "from_id": "user1315489790",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 99,
+      "type": "message",
+      "date": "2021-12-11T14:56:04",
+      "from": "(; Sulaymon ;)",
+      "from_id": "user1315489790",
+      "text": "Assalomu aleykum\nhamma yaxshimi"
+     },
+     {
+      "id": 100,
+      "type": "message",
+      "date": "2021-12-11T14:56:19",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 97,
+      "text": "shartini qaytadan o'qib ko'rib aytingchi"
+     },
+     {
+      "id": 101,
+      "type": "message",
+      "date": "2021-12-11T14:58:05",
+      "from": "Рахимов Мухаммад Бобур",
+      "from_id": "user1190418313",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 102,
+      "type": "message",
+      "date": "2021-12-11T14:58:38",
+      "from": "Shahzod",
+      "from_id": "user1118355932",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 103,
+      "type": "message",
+      "date": "2021-12-11T14:58:46",
+      "from": "Shahzod",
+      "from_id": "user1118355932",
+      "text": "assalomu alaykum"
+     },
+     {
+      "id": 104,
+      "type": "message",
+      "date": "2021-12-11T14:59:55",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 103,
+      "text": "Valaykum Salom"
+     },
+     {
+      "id": 105,
+      "type": "message",
+      "date": "2021-12-11T15:00:23",
+      "from": "K Ikrom",
+      "from_id": "user715393503",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 665,
+      "height": 309,
+      "text": ""
+     },
+     {
+      "id": 106,
+      "type": "message",
+      "date": "2021-12-11T15:00:37",
+      "from": "K Ikrom",
+      "from_id": "user715393503",
+      "text": "ассалом алейкум"
+     },
+     {
+      "id": 107,
+      "type": "message",
+      "date": "2021-12-11T15:23:45",
+      "from": "K Otabek",
+      "from_id": "user646113348",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 717,
+      "text": ""
+     },
+     {
+      "id": 108,
+      "type": "message",
+      "date": "2021-12-11T15:27:27",
+      "from": "Shohjahon Berdimurotov",
+      "from_id": "user1333107837",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 109,
+      "type": "message",
+      "date": "2021-12-11T15:35:04",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "text": "Assalomu alaykum,"
+     },
+     {
+      "id": 110,
+      "type": "message",
+      "date": "2021-12-11T15:35:06",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 111,
+      "type": "message",
+      "date": "2021-12-11T15:49:25",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "text": "Assalomu alaykum"
+     },
+     {
+      "id": 112,
+      "type": "message",
+      "date": "2021-12-11T15:49:32",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 111,
+      "text": "Valaykum Salom"
+     },
+     {
+      "id": 113,
+      "type": "message",
+      "date": "2021-12-11T15:49:56",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/png",
+      "width": 1207,
+      "height": 681,
+      "text": "Bunda qanaqa xatolik bo'layabdi"
+     },
+     {
+      "id": 114,
+      "type": "message",
+      "date": "2021-12-11T15:52:32",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 113,
+      "text": "Notepad++ dasturini yuklab olganmisiz?"
+     },
+     {
+      "id": 115,
+      "type": "message",
+      "date": "2021-12-11T15:55:56",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "reply_to_message_id": 114,
+      "text": "ha yuklab oldim"
+     },
+     {
+      "id": 116,
+      "type": "message",
+      "date": "2021-12-11T15:56:10",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/png",
+      "width": 958,
+      "height": 731,
+      "text": ""
+     },
+     {
+      "id": 117,
+      "type": "message",
+      "date": "2021-12-11T16:09:00",
+      "from": "Rasulov Diyorbek",
+      "from_id": "user1962761113",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 118,
+      "type": "message",
+      "date": "2021-12-11T16:12:07",
+      "from": "رَوْشاَن",
+      "from_id": "user527334899",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/jpeg",
+      "width": 1052,
+      "height": 477,
+      "text": ""
+     },
+     {
+      "id": 119,
+      "type": "message",
+      "date": "2021-12-11T16:17:16",
+      "from": "Bilol",
+      "from_id": "user822436598",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 757,
+      "height": 447,
+      "text": ""
+     },
+     {
+      "id": 120,
+      "type": "message",
+      "date": "2021-12-11T16:32:55",
+      "from": "Jasurbek K Husan",
+      "from_id": "user1612092760",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": "Esonov Jasurbek"
+     },
+     {
+      "id": 121,
+      "type": "message",
+      "date": "2021-12-11T16:37:04",
+      "edited": "2021-12-11T16:53:20",
+      "from": "SARVARBEK JAKBAROV DI-11-21",
+      "from_id": "user1432326827",
+      "reply_to_message_id": 70,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 122,
+      "type": "message",
+      "date": "2021-12-11T18:31:36",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 576,
+      "height": 378,
+      "text": ""
+     },
+     {
+      "id": 123,
+      "type": "message",
+      "date": "2021-12-11T18:54:49",
+      "from": "(; Sulaymon ;)",
+      "from_id": "user1315489790",
+      "reply_to_message_id": 88,
+      "text": "Assalomu aleykum\nshu misolda B to'g'ri ekan\nnega shunday tushuntirivoringla"
+     },
+     {
+      "id": 124,
+      "type": "message",
+      "date": "2021-12-11T18:55:54",
+      "edited": "2021-12-11T18:56:29",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 123,
+      "text": [
+       "x = 3\nx = x + 7 # x = 10\nx = x + 10 # x = 20\n",
+       {
+        "type": "italic",
+        "text": "_"
+       },
+       "\n20+20=40"
+      ]
+     },
+     {
+      "id": 125,
+      "type": "message",
+      "date": "2021-12-11T18:56:02",
+      "from": "ᴏᴛᴀʏᴏʀ ʏᴜsᴜᴘᴏᴠ",
+      "from_id": "user227588239",
+      "reply_to_message_id": 123,
+      "text": "Ohirida print x+x"
+     },
+     {
+      "id": 126,
+      "type": "message",
+      "date": "2021-12-11T18:56:45",
+      "from": "(; Sulaymon ;)",
+      "from_id": "user1315489790",
+      "reply_to_message_id": 124,
+      "text": "bo'ldi tushundim\nkatta rahmat"
+     },
+     {
+      "id": 127,
+      "type": "message",
+      "date": "2021-12-11T18:56:52",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 126,
+      "text": "👍👍"
+     },
+     {
+      "id": 128,
+      "type": "message",
+      "date": "2021-12-11T18:58:12",
+      "from": "Ziyodulloh Abduvali",
+      "from_id": "user1351696813",
+      "reply_to_message_id": 89,
+      "text": "Qanday qilib?"
+     },
+     {
+      "id": 129,
+      "type": "message",
+      "date": "2021-12-11T19:00:04",
+      "from": "Oybek",
+      "from_id": "user369574984",
+      "reply_to_message_id": 128,
+      "text": "print(x+x) ga etibor bermagansiz manimcha )"
+     },
+     {
+      "id": 130,
+      "type": "message",
+      "date": "2021-12-11T19:00:24",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "text": "assalom alaykum"
+     },
+     {
+      "id": 131,
+      "type": "message",
+      "date": "2021-12-11T19:00:30",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 129,
+      "text": "шунака камчиликлар эътиборсизлигимиздан"
+     },
+     {
+      "id": 132,
+      "type": "message",
+      "date": "2021-12-11T19:00:46",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "text": "manda nimagadir Notepad++ bilan ornatib bolmayapti"
+     },
+     {
+      "id": 133,
+      "type": "message",
+      "date": "2021-12-11T19:00:57",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "text": "VS code bilan qilsam boladimi?"
+     },
+     {
+      "id": 134,
+      "type": "message",
+      "date": "2021-12-11T19:01:10",
+      "from": "O`razg`ali",
+      "from_id": "user1916958006",
+      "reply_to_message_id": 132,
+      "text": "orqaga birmarta qaytb qayttan kiring"
+     },
+     {
+      "id": 135,
+      "type": "message",
+      "date": "2021-12-11T19:01:36",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 566,
+      "height": 478,
+      "text": "Gitni nazarda"
+     },
+     {
+      "id": 136,
+      "type": "message",
+      "date": "2021-12-11T19:01:52",
+      "from": "O`razg`ali",
+      "from_id": "user1916958006",
+      "reply_to_message_id": 134,
+      "text": "."
+     },
+     {
+      "id": 137,
+      "type": "message",
+      "date": "2021-12-11T19:02:05",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "text": "boldi rahmat)"
+     },
+     {
+      "id": 138,
+      "type": "message",
+      "date": "2021-12-11T19:02:17",
+      "from": "O`razg`ali",
+      "from_id": "user1916958006",
+      "text": "ok"
+     },
+     {
+      "id": 139,
+      "type": "message",
+      "date": "2021-12-11T19:04:57",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 680,
+      "text": ""
+     },
+     {
+      "id": 140,
+      "type": "message",
+      "date": "2021-12-11T19:05:08",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "text": "shunda togrimi?"
+     },
+     {
+      "id": 141,
+      "type": "message",
+      "date": "2021-12-11T19:05:25",
+      "from": "Jalilov",
+      "from_id": "user1046157991",
+      "reply_to_message_id": 139,
+      "text": "👍"
+     },
+     {
+      "id": 142,
+      "type": "message",
+      "date": "2021-12-11T19:05:36",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "reply_to_message_id": 141,
+      "text": "rahmat"
+     },
+     {
+      "id": 143,
+      "type": "message",
+      "date": "2021-12-11T19:07:50",
+      "from": "Jasurbek K Husan",
+      "from_id": "user1612092760",
+      "text": "assalomu alekum Javohir aka dars beradigan kanal yuq bolib qoldiyu"
+     },
+     {
+      "id": 144,
+      "type": "message",
+      "date": "2021-12-11T19:26:19",
+      "edited": "2021-12-11T20:11:31",
+      "from": "ابراهيم",
+      "from_id": "user1162958042",
+      "reply_to_message_id": 70,
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/jpeg",
+      "width": 1277,
+      "height": 1023,
+      "text": "Boymirzayev Ibrohim"
+     },
+     {
+      "id": 145,
+      "type": "message",
+      "date": "2021-12-11T19:30:23",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 146,
+      "type": "message",
+      "date": "2021-12-11T19:40:47",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 147,
+      "type": "message",
+      "date": "2021-12-11T19:41:03",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 859,
+      "height": 253,
+      "text": ""
+     },
+     {
+      "id": 148,
+      "type": "message",
+      "date": "2021-12-11T19:41:57",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 145,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 859,
+      "height": 253,
+      "text": ""
+     },
+     {
+      "id": 149,
+      "type": "message",
+      "date": "2021-12-11T19:42:05",
+      "from": "Doniyor Baltashov",
+      "from_id": "user803818611",
+      "reply_to_message_id": 145,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 583,
+      "text": ""
+     },
+     {
+      "id": 150,
+      "type": "message",
+      "date": "2021-12-11T19:42:06",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 145,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 713,
+      "height": 582,
+      "text": ""
+     },
+     {
+      "id": 151,
+      "type": "message",
+      "date": "2021-12-11T19:44:47",
+      "from": "O`razg`ali",
+      "from_id": "user1916958006",
+      "reply_to_message_id": 145,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 928,
+      "height": 487,
+      "text": ""
+     },
+     {
+      "id": 152,
+      "type": "message",
+      "date": "2021-12-11T19:45:11",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1160,
+      "height": 776,
+      "text": ""
+     },
+     {
+      "id": 154,
+      "type": "message",
+      "date": "2021-12-11T19:45:22",
+      "from": "رَوْشاَن",
+      "from_id": "user527334899",
+      "reply_to_message_id": 145,
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/png",
+      "width": 1291,
+      "height": 544,
+      "text": ""
+     },
+     {
+      "id": 156,
+      "type": "message",
+      "date": "2021-12-11T19:45:54",
+      "from": "Shahzod",
+      "from_id": "user1118355932",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 157,
+      "type": "message",
+      "date": "2021-12-11T19:46:34",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "reply_to_message_id": 145,
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/png",
+      "width": 708,
+      "height": 352,
+      "text": ""
+     },
+     {
+      "id": 158,
+      "type": "message",
+      "date": "2021-12-11T19:46:59",
+      "from": "Oybek",
+      "from_id": "user369574984",
+      "reply_to_message_id": 145,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1057,
+      "height": 651,
+      "text": ""
+     },
+     {
+      "id": 159,
+      "type": "message",
+      "date": "2021-12-11T19:47:38",
+      "from": "(; Sulaymon ;)",
+      "from_id": "user1315489790",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 160,
+      "type": "message",
+      "date": "2021-12-11T19:47:50",
+      "from": "Bilol",
+      "from_id": "user822436598",
+      "reply_to_message_id": 145,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 161,
+      "type": "message",
+      "date": "2021-12-11T19:50:56",
+      "from": "👨‍🎓 Ｓ@რץβογ 👨‍💻",
+      "from_id": "user473512979",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 720,
+      "height": 583,
+      "text": ""
+     },
+     {
+      "id": 162,
+      "type": "message",
+      "date": "2021-12-11T19:54:06",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 1014,
+      "text": ""
+     },
+     {
+      "id": 163,
+      "type": "message",
+      "date": "2021-12-11T19:54:13",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1270,
+      "height": 462,
+      "text": ""
+     },
+     {
+      "id": 164,
+      "type": "message",
+      "date": "2021-12-11T19:54:33",
+      "from": "Hamid aka",
+      "from_id": "user268270012",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 785,
+      "height": 281,
+      "text": ""
+     },
+     {
+      "id": 166,
+      "type": "message",
+      "date": "2021-12-11T19:57:20",
+      "from": "Oybek",
+      "from_id": "user369574984",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 167,
+      "type": "message",
+      "date": "2021-12-11T19:57:21",
+      "from": "Oybek",
+      "from_id": "user369574984",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 591,
+      "text": ""
+     },
+     {
+      "id": 168,
+      "type": "message",
+      "date": "2021-12-11T19:57:37",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 859,
+      "height": 311,
+      "text": ""
+     },
+     {
+      "id": 169,
+      "type": "message",
+      "date": "2021-12-11T19:58:26",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 859,
+      "height": 311,
+      "text": ""
+     },
+     {
+      "id": 170,
+      "type": "message",
+      "date": "2021-12-11T20:00:23",
+      "from": "Shahzod",
+      "from_id": "user1118355932",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 171,
+      "type": "message",
+      "date": "2021-12-11T20:00:38",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 859,
+      "height": 472,
+      "text": ""
+     },
+     {
+      "id": 172,
+      "type": "message",
+      "date": "2021-12-11T20:00:58",
+      "from": "Shahzod",
+      "from_id": "user1118355932",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 173,
+      "type": "message",
+      "date": "2021-12-11T20:01:24",
+      "from": "(; Sulaymon ;)",
+      "from_id": "user1315489790",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 174,
+      "type": "message",
+      "date": "2021-12-11T20:03:11",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 738,
+      "text": ""
+     },
+     {
+      "id": 175,
+      "type": "message",
+      "date": "2021-12-11T20:13:22",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "reply_to_message_id": 162,
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/png",
+      "width": 633,
+      "height": 332,
+      "text": ""
+     },
+     {
+      "id": 176,
+      "type": "message",
+      "date": "2021-12-11T20:14:47",
+      "from": "👨‍🎓 Ｓ@რץβογ 👨‍💻",
+      "from_id": "user473512979",
+      "reply_to_message_id": 145,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 720,
+      "height": 771,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#Xatolik"
+       }
+      ]
+     },
+     {
+      "id": 177,
+      "type": "message",
+      "date": "2021-12-11T20:14:58",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 145,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 178,
+      "type": "message",
+      "date": "2021-12-11T20:15:38",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 859,
+      "height": 472,
+      "text": ""
+     },
+     {
+      "id": 179,
+      "type": "message",
+      "date": "2021-12-11T20:15:40",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 682,
+      "text": ""
+     },
+     {
+      "id": 180,
+      "type": "message",
+      "date": "2021-12-11T20:33:43",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 4997,
+      "width": 1280,
+      "height": 720,
+      "text": ""
+     },
+     {
+      "id": 181,
+      "type": "message",
+      "date": "2021-12-11T20:34:56",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "media_type": "voice_message",
+      "mime_type": "audio/ogg",
+      "duration_seconds": 19,
+      "text": ""
+     },
+     {
+      "id": 182,
+      "type": "message",
+      "date": "2021-12-11T20:44:07",
+      "from": "Jasurbek K Husan",
+      "from_id": "user1612092760",
+      "reply_to_message_id": 181,
+      "text": "men boya kanaldan chiqib kettimda manashu videoni bugungi darslikmi ushandan urganib tayorlab tashasam boladimi"
+     },
+     {
+      "id": 183,
+      "type": "message",
+      "date": "2021-12-11T20:44:15",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 174,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 859,
+      "height": 303,
+      "text": ""
+     },
+     {
+      "id": 184,
+      "type": "message",
+      "date": "2021-12-11T20:46:28",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 183,
+      "text": "git config —list qilib ko’ringchi"
+     },
+     {
+      "id": 185,
+      "type": "service",
+      "date": "2021-12-11T20:48:08",
+      "actor": "Codeschooluz",
+      "actor_id": "user1411214137",
+      "action": "remove_members",
+      "members": [
+       "Jasurbek K Husan"
+      ],
+      "text": ""
+     },
+     {
+      "id": 186,
+      "type": "message",
+      "date": "2021-12-11T20:54:44",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 859,
+      "height": 366,
+      "text": ""
+     },
+     {
+      "id": 187,
+      "type": "message",
+      "date": "2021-12-11T20:54:46",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 581,
+      "height": 370,
+      "text": ""
+     },
+     {
+      "id": 188,
+      "type": "message",
+      "date": "2021-12-11T20:55:23",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 184,
+      "text": "ishlayapti"
+     },
+     {
+      "id": 189,
+      "type": "message",
+      "date": "2021-12-11T20:56:50",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 188,
+      "text": "Siz faqat birmarta config qilasiz xar-safar qilish kerak emas"
+     },
+     {
+      "id": 190,
+      "type": "message",
+      "date": "2021-12-11T20:57:06",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "text": "tushunarli"
+     },
+     {
+      "id": 191,
+      "type": "message",
+      "date": "2021-12-11T20:57:57",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 189,
+      "text": "boshida bir necha marotaba urunib ko'ribman shekilli, ishlamayapti deb"
+     },
+     {
+      "id": 192,
+      "type": "message",
+      "date": "2021-12-11T20:58:11",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 189,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 570,
+      "height": 360,
+      "text": "bunda nega ishlamayapti"
+     },
+     {
+      "id": 193,
+      "type": "message",
+      "date": "2021-12-11T20:59:26",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 192,
+      "text": "Print_homework da qanday file lar bor?\n\nls qilib yuboringchi"
+     },
+     {
+      "id": 194,
+      "type": "message",
+      "date": "2021-12-11T20:59:46",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 192,
+      "text": "file yo'q deb yozayaptiku"
+     },
+     {
+      "id": 195,
+      "type": "message",
+      "date": "2021-12-11T20:59:53",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 194,
+      "text": "Shunday"
+     },
+     {
+      "id": 196,
+      "type": "message",
+      "date": "2021-12-11T21:00:41",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 960,
+      "height": 540,
+      "text": [
+       {
+        "type": "hashtag",
+        "text": "#homework"
+       }
+      ]
+     },
+     {
+      "id": 197,
+      "type": "message",
+      "date": "2021-12-11T21:00:41",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 960,
+      "height": 540,
+      "text": ""
+     },
+     {
+      "id": 198,
+      "type": "message",
+      "date": "2021-12-11T21:00:41",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 960,
+      "height": 540,
+      "text": ""
+     },
+     {
+      "id": 199,
+      "type": "message",
+      "date": "2021-12-11T21:02:42",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 193,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1041,
+      "height": 536,
+      "text": "boldi internet past edi, bitta cmd yuborilmagan ekan. hozir ishladi menimcha"
+     },
+     {
+      "id": 200,
+      "type": "message",
+      "date": "2021-12-11T21:27:13",
+      "from": "(; Sulaymon ;)",
+      "from_id": "user1315489790",
+      "reply_to_message_id": 196,
+      "text": "bunda ikkalasi ham var01 lekin shartda ikkinchisi var02\n1-rasmda xatolik bormi shunda"
+     },
+     {
+      "id": 201,
+      "type": "message",
+      "date": "2021-12-11T21:27:36",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 200,
+      "text": "ha bosilib ketgan bolsa kerak"
+     },
+     {
+      "id": 202,
+      "type": "message",
+      "date": "2021-12-11T21:27:55",
+      "from": "(; Sulaymon ;)",
+      "from_id": "user1315489790",
+      "text": "ok\nrahmat"
+     },
+     {
+      "id": 203,
+      "type": "message",
+      "date": "2021-12-11T21:28:46",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 196,
+      "text": [
+       "ikkinchisi ",
+       {
+        "type": "link",
+        "text": "var02.py"
+       },
+       " bo'lsa kerak, chunki ikkita bir xil fayl yaratilsa xatolik beradi"
+      ]
+     },
+     {
+      "id": 204,
+      "type": "message",
+      "date": "2021-12-11T21:31:16",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 200,
+      "text": "Shunday ekan"
+     },
+     {
+      "id": 205,
+      "type": "message",
+      "date": "2021-12-11T21:31:34",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "reply_to_message_id": 204,
+      "text": "tushunarli"
+     },
+     {
+      "id": 207,
+      "type": "message",
+      "date": "2021-12-11T22:36:25",
+      "from": "ابراهيم",
+      "from_id": "user1162958042",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1278,
+      "height": 1023,
+      "text": ""
+     },
+     {
+      "id": 208,
+      "type": "message",
+      "date": "2021-12-11T22:37:27",
+      "from": "SARVARBEK JAKBAROV DI-11-21",
+      "from_id": "user1432326827",
+      "reply_to_message_id": 174,
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/png",
+      "width": 1920,
+      "height": 1080,
+      "text": ""
+     },
+     {
+      "id": 209,
+      "type": "service",
+      "date": "2021-12-12T00:00:36",
+      "actor": "Jasurbek K Husan",
+      "actor_id": "user1612092760",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": 210,
+      "type": "message",
+      "date": "2021-12-12T08:19:27",
+      "from": "Shohjahon Berdimurotov",
+      "from_id": "user1333107837",
+      "reply_to_message_id": 145,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 211,
+      "type": "message",
+      "date": "2021-12-12T08:38:48",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 210,
+      "text": "👍"
+     },
+     {
+      "id": 212,
+      "type": "message",
+      "date": "2021-12-12T09:00:06",
+      "from": "Shohjahon Berdimurotov",
+      "from_id": "user1333107837",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 213,
+      "type": "message",
+      "date": "2021-12-12T09:00:43",
+      "from": "Shohjahon Berdimurotov",
+      "from_id": "user1333107837",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 214,
+      "type": "message",
+      "date": "2021-12-12T09:03:13",
+      "from": "Shohjahon Berdimurotov",
+      "from_id": "user1333107837",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": ""
+     },
+     {
+      "id": 215,
+      "type": "message",
+      "date": "2021-12-12T09:18:11",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "reply_to_message_id": 162,
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/png",
+      "width": 1365,
+      "height": 607,
+      "text": ""
+     },
+     {
+      "id": 216,
+      "type": "message",
+      "date": "2021-12-12T09:18:12",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "reply_to_message_id": 162,
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/png",
+      "width": 978,
+      "height": 519,
+      "text": ""
+     },
+     {
+      "id": 217,
+      "type": "message",
+      "date": "2021-12-12T09:18:32",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 215,
+      "text": "iloji boricha image qilib yuboring"
+     },
+     {
+      "id": 218,
+      "type": "message",
+      "date": "2021-12-12T09:19:37",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 215,
+      "text": "git clone qanday ishlatish bo'yicha vide ni qaytaan ko'rib chiqing tushinmagan joyni savol bering"
+     },
+     {
+      "id": 219,
+      "type": "message",
+      "date": "2021-12-12T11:30:42",
+      "from": "Shohjahon Berdimurotov",
+      "from_id": "user1333107837",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 786,
+      "height": 533,
+      "text": "Nimada xato berayabdi yordam beivoringizla"
+     },
+     {
+      "id": 220,
+      "type": "message",
+      "date": "2021-12-12T11:31:56",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 219,
+      "text": "push qilishda oldin config qilish kerak"
+     },
+     {
+      "id": 221,
+      "type": "message",
+      "date": "2021-12-12T11:32:27",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 220,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 738,
+      "text": ""
+     },
+     {
+      "id": 222,
+      "type": "message",
+      "date": "2021-12-12T11:32:30",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "forwarded_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 738,
+      "text": ""
+     },
+     {
+      "id": 223,
+      "type": "message",
+      "date": "2021-12-12T11:32:36",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 222,
+      "text": "👍"
+     },
+     {
+      "id": 224,
+      "type": "message",
+      "date": "2021-12-12T11:32:51",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "text": "узр аста ишлаймизда"
+     },
+     {
+      "id": 225,
+      "type": "message",
+      "date": "2021-12-12T11:37:43",
+      "from": "Mahliyoxon Anvarova",
+      "from_id": "user1349539621",
+      "reply_to_message_id": 67,
+      "text": "Assalomu alaykum! gruppa ochildimi? 🤔"
+     },
+     {
+      "id": 226,
+      "type": "message",
+      "date": "2021-12-12T11:38:09",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 225,
+      "text": "Ha"
+     },
+     {
+      "id": 227,
+      "type": "message",
+      "date": "2021-12-12T11:38:32",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 225,
+      "text": [
+       {
+        "type": "link",
+        "text": "https://t.me/+2vAIBYEwRFlhYzc1"
+       }
+      ]
+     },
+     {
+      "id": 228,
+      "type": "message",
+      "date": "2021-12-12T11:39:17",
+      "from": "Mahliyoxon Anvarova",
+      "from_id": "user1349539621",
+      "reply_to_message_id": 67,
+      "text": "rahmat!"
+     },
+     {
+      "id": 229,
+      "type": "message",
+      "date": "2021-12-12T12:00:11",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "text": "Бугун Узбекистон ва Тожикистон региони учун ICPC саралаш контести булиб утмокда"
+     },
+     {
+      "id": 230,
+      "type": "message",
+      "date": "2021-12-12T12:00:11",
+      "from": "Malik Domla",
+      "from_id": "user109599090",
+      "forwarded_from": "(Ds)FoRResT",
+      "text": [
+       {
+        "type": "link",
+        "text": "https://contest.yandex.ru/uzb-tjk-icpc-2021"
+       }
+      ]
+     },
+     {
+      "id": 231,
+      "type": "message",
+      "date": "2021-12-12T15:01:50",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "reply_to_message_id": 221,
+      "text": "git push qilishdan oldin mana shu 4 ta buyruqni hammasini yozish kerakmi"
+     },
+     {
+      "id": 232,
+      "type": "message",
+      "date": "2021-12-12T15:23:37",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "reply_to_message_id": 196,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 513,
+      "height": 469,
+      "text": ""
+     },
+     {
+      "id": 233,
+      "type": "message",
+      "date": "2021-12-12T15:23:37",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "reply_to_message_id": 196,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 977,
+      "height": 427,
+      "text": ""
+     },
+     {
+      "id": 235,
+      "type": "message",
+      "date": "2021-12-12T15:23:37",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "reply_to_message_id": 196,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 596,
+      "height": 607,
+      "text": ""
+     },
+     {
+      "id": 236,
+      "type": "message",
+      "date": "2021-12-12T15:24:02",
+      "from": "Jamshid",
+      "from_id": "user499804805",
+      "reply_to_message_id": 196,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1114,
+      "height": 196,
+      "text": ""
+     },
+     {
+      "id": 237,
+      "type": "message",
+      "date": "2021-12-12T15:36:41",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 231,
+      "text": "har safar emas"
+     },
+     {
+      "id": 240,
+      "type": "message",
+      "date": "2021-12-12T19:06:33",
+      "from": "رَوْشاَن",
+      "from_id": "user527334899",
+      "reply_to_message_id": 196,
+      "file": "(File not included. Change data exporting settings to download.)",
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "mime_type": "image/png",
+      "width": 1286,
+      "height": 750,
+      "text": ""
+     },
+     {
+      "id": 241,
+      "type": "message",
+      "date": "2021-12-12T19:10:53",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "Assalomu alaykum"
+     },
+     {
+      "id": 242,
+      "type": "message",
+      "date": "2021-12-12T19:11:08",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "Python file yarataman desam add button chiqmayapti"
+     },
+     {
+      "id": 243,
+      "type": "message",
+      "date": "2021-12-12T19:11:15",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "Git hubda"
+     },
+     {
+      "id": 244,
+      "type": "message",
+      "date": "2021-12-12T19:12:10",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 242,
+      "text": "va alaykum assalom, screenshot yuboring"
+     },
+     {
+      "id": 245,
+      "type": "message",
+      "date": "2021-12-12T19:13:19",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 642,
+      "text": ""
+     },
+     {
+      "id": 246,
+      "type": "message",
+      "date": "2021-12-12T19:13:34",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "bowqa repositoryda add file bor"
+     },
+     {
+      "id": 247,
+      "type": "message",
+      "date": "2021-12-12T19:13:38",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "lekin bunda yoq"
+     },
+     {
+      "id": 248,
+      "type": "message",
+      "date": "2021-12-12T19:13:50",
+      "from": "Doniyor Baltashov",
+      "from_id": "user803818611",
+      "reply_to_message_id": 245,
+      "text": "create a new file"
+     },
+     {
+      "id": 249,
+      "type": "message",
+      "date": "2021-12-12T19:14:03",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 245,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 642,
+      "text": ""
+     },
+     {
+      "id": 250,
+      "type": "message",
+      "date": "2021-12-12T19:14:15",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "Aha boldi . etibor bermapman"
+     },
+     {
+      "id": 251,
+      "type": "message",
+      "date": "2021-12-12T19:14:17",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "rahmat"
+     },
+     {
+      "id": 252,
+      "type": "message",
+      "date": "2021-12-12T19:25:36",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 660,
+      "height": 247,
+      "text": ""
+     },
+     {
+      "id": 253,
+      "type": "message",
+      "date": "2021-12-12T19:25:45",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "git add da ham problema"
+     },
+     {
+      "id": 254,
+      "type": "message",
+      "date": "2021-12-12T19:26:35",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 252,
+      "text": [
+       "avval ",
+       {
+        "type": "link",
+        "text": "main.py"
+       },
+       " nomli fayl yarating localda"
+      ]
+     },
+     {
+      "id": 255,
+      "type": "message",
+      "date": "2021-12-12T19:26:47",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "qildim"
+     },
+     {
+      "id": 256,
+      "type": "message",
+      "date": "2021-12-12T19:28:44",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": [
+       "Lekin ",
+       {
+        "type": "link",
+        "text": "main.py"
+       },
+       " chiqmayaptida"
+      ]
+     },
+     {
+      "id": 257,
+      "type": "message",
+      "date": "2021-12-12T19:29:10",
+      "edited": "2021-12-12T19:29:31",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 256,
+      "text": "clone qilingan papkani ichida yaratdizmi faylni?"
+     },
+     {
+      "id": 258,
+      "type": "message",
+      "date": "2021-12-12T19:31:55",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "Bosh qotib qoldi xozir"
+     },
+     {
+      "id": 259,
+      "type": "message",
+      "date": "2021-12-12T19:32:22",
+      "from": "Muhammad Ali 🇺🇿",
+      "from_id": "user1669196854",
+      "reply_to_message_id": 258,
+      "text": "nima bo'lyapti, ketma-ketlikni to'g'ri bajardingizmi?"
+     },
+     {
+      "id": 260,
+      "type": "message",
+      "date": "2021-12-12T20:36:51",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1096,
+      "height": 752,
+      "text": ""
+     },
+     {
+      "id": 261,
+      "type": "message",
+      "date": "2021-12-12T20:37:09",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "reply_to_message_id": 162,
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 350,
+      "text": ""
+     },
+     {
+      "id": 262,
+      "type": "service",
+      "date": "2021-12-12T21:02:41",
+      "actor": "Mahliyoxon Anvarova",
+      "actor_id": "user1349539621",
+      "action": "join_group_by_request",
+      "text": ""
+     },
+     {
+      "id": 263,
+      "type": "message",
+      "date": "2021-12-12T21:05:19",
+      "from": "Jasurbek K Husan",
+      "from_id": "user1612092760",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": "mana shundaymi"
+     },
+     {
+      "id": 264,
+      "type": "message",
+      "date": "2021-12-12T21:06:04",
+      "from": "Zarif Aka Ustoz",
+      "from_id": "user86775091",
+      "reply_to_message_id": 263,
+      "text": "Nima qilmochisiz?"
+     },
+     {
+      "id": 265,
+      "type": "message",
+      "date": "2021-12-12T21:12:04",
+      "from": "Jasurbek K Husan",
+      "from_id": "user1612092760",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": "git clone dep yozsam mana bunde bop qolepdi"
+     },
+     {
+      "id": 266,
+      "type": "message",
+      "date": "2021-12-12T21:12:52",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "reply_to_message_id": 265,
+      "text": "Git clone deb yozgandan keyin yaratgan repository nomini yozing"
+     },
+     {
+      "id": 267,
+      "type": "message",
+      "date": "2021-12-12T21:13:15",
+      "from": "Odilxon",
+      "from_id": "user271092040",
+      "text": "Git clone deb yozib undan keyin hech nima yozmapsiz"
+     },
+     {
+      "id": 268,
+      "type": "message",
+      "date": "2021-12-12T21:13:38",
+      "from": "Jasurbek K Husan",
+      "from_id": "user1612092760",
+      "reply_to_message_id": 264,
+      "text": "men video darislikdan qop ketudim. bugun qoshillim videoni ochib korib qilayapman"
+     },
+     {
+      "id": 269,
+      "type": "message",
+      "date": "2021-12-12T21:20:24",
+      "edited": "2021-12-13T13:31:35",
+      "from": "Python 2022 A",
+      "from_id": "channel1474589327",
+      "forwarded_from": "Python 2022 A",
+      "saved_from": "Python 2022 A",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 206,
+      "height": 466,
+      "text": "1-uyga vazifa bo'yicha natijalar. Natijalar 10 lik baholash tizimida baholandi."
+     },
+     {
+      "id": 270,
+      "type": "message",
+      "date": "2021-12-12T21:20:56",
+      "from": "Ziyodulloh Abduvali",
+      "from_id": "user1351696813",
+      "reply_to_message_id": 269,
+      "text": "Ha. Savol, nega mening ballim 7?"
+     },
+     {
+      "id": 271,
+      "type": "message",
+      "date": "2021-12-12T21:24:39",
+      "from": "Jasurbek K Husan",
+      "from_id": "user1612092760",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": "mana shunde bolyaptida yozsam ham"
+     },
+     {
+      "id": 272,
+      "type": "message",
+      "date": "2021-12-12T21:32:07",
+      "from": "Oybek",
+      "from_id": "user369574984",
+      "reply_to_message_id": 270,
+      "text": [
+       "Vazifada ",
+       {
+        "type": "code",
+        "text": "CODESCHOOLUZ"
+       },
+       " deb yozish kerak edi siz boshqa narsa yozgansiz"
+      ]
+     },
+     {
+      "id": 273,
+      "type": "message",
+      "date": "2021-12-12T21:33:52",
+      "from": "Jasurbek K Husan",
+      "from_id": "user1612092760",
+      "reply_to_message_id": 271,
+      "text": "tushunganlar manuni tushintirishivorila negadir uxshamayapdi"
+     },
+     {
+      "id": 274,
+      "type": "message",
+      "date": "2021-12-12T21:36:55",
+      "edited": "2021-12-12T21:37:16",
+      "from": "Ziyodulloh Abduvali",
+      "from_id": "user1351696813",
+      "reply_to_message_id": 272,
+      "text": "Hech kim aynan shunday yozish kerak demagan-ku. Menga bunday barcha xarflarni kattada yozish, so'zlar o'rtasida joy tashlamaslik va bir ma'nosiz so'zni o'zini yozib qo'yishlik yoqmaydi, shunga \"Learner at Code School Uz\" deb yozganman."
+     },
+     {
+      "id": 275,
+      "type": "message",
+      "date": "2021-12-12T21:38:16",
+      "from": "Oybek",
+      "from_id": "user369574984",
+      "photo": "(File not included. Change data exporting settings to download.)",
+      "width": 1280,
+      "height": 719,
+      "text": "Menimcha shu ortiqcha emasmi ? Copy qilayotgan boshqa narsalarni ham qoʻshib copy qilganga oʻxshab koʻrinyapsiz"
+     },
+     {
+      "id": 276,
+      "type": "message",
+      "date": "2021-12-12T21:38:28",
+      "from": "Oybek",
+      "from_id": "user369574984",
+      "reply_to_message_id": 274,
+      "text": "Shuning uchun 7 ball olgansiz"
+     },
+     {
+      "id": 277,
+      "type": "message",
+      "date": "2021-12-12T21:38:45",
+      "from": "Oybek",
+      "from_id": "user369574984",
+      "reply_to_message_id": 274,
+      "text": "Umuman bajarmaganlar -5 ball olgan"
+     }
+    ]
+   }
